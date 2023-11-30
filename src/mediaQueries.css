@@ -1,0 +1,928 @@
+@media only screen and (max-width: 992px) {
+  .navul {
+    display: block;
+    margin-top: 5%;
+  }
+
+  .mobilenav-img {
+    display: block;
+  }
+
+  .navul li {
+    line-height: 3rem;
+    padding-left: 0 !important;
+  }
+
+  .moblogbrand {
+    display: block;
+    width: 35%;
+    margin-top: 1%;
+  }
+
+  .moblogo {
+    display: block;
+    width: 60%;
+    margin-left: 32px;
+  }
+
+  .grid-item2 {
+    margin-left: 50px;
+  }
+  .service-card img {
+    width: 50%;
+}
+.service-card .card-body{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+  .landingsection {
+    height: auto;
+    margin-top: 15%;
+  }
+
+  .pattern {
+    bottom: -80px;
+  }
+
+  .main-content h1 {
+    font-size: 30px !important;
+  }
+
+  .grids {
+    width: 100px;
+    height: 100px;
+  }
+
+  .grid-item3 {
+    margin-left: 150px;
+  }
+
+  .mobnavlogo {
+    display: block;
+    margin-top: 14%;
+    opacity: 0.1;
+  }
+
+  .ads-content h1 {
+    line-height: 0.7;
+    font-size: 1.5rem !important;
+  }
+
+  .ads-content p {
+    padding-top: 20px;
+    font-size: 12px;
+  }
+
+  .footer-link {
+    width: 30%;
+    margin-top: 20px;
+  }
+
+  .navbar-toggler {
+    z-index: 8;
+    border: none;
+  }
+
+  .navbar-toggler:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  .navbar-collapse.collapsing {
+    left: -100%;
+    transition: height 0s ease;
+  }
+
+  .navbar-collapse.collapsing .navoverlay {
+    left: -100%;
+    transition: height 0s ease;
+  }
+
+  .navbar-collapse.show,
+  .navbar-collapse.show .navoverlay {
+    background: #002ACE;
+    left: 0;
+    transition: left 300ms ease-in;
+  }
+
+  .navbar-toggler.collapsed~.navbar-collapse {
+    transition: left 500ms ease-in;
+  }
+
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 5;
+    background: #002ACE;
+  }
+
+  .navbar-brand {
+    width: 80%;
+  }
+
+  .navbar-collapse .nav-link {
+    font-size: 1.5rem !important;
+    color: white;
+  }
+
+  .navbar-collapse.show .navbar-toggler {
+    background-color: white;
+  }
+
+  .endnav a {
+    background: white !important;
+    color: #002ACE !important;
+    padding: 10px 32px !important;
+  }
+
+  .endnav a:hover {
+    background: #E4E4E4 !important;
+    color: #002ACE !important;
+  }
+
+  .moblogo2 {
+    width: 100%;
+    opacity: 0.1;
+    display: block;
+  }
+
+  .middlenav {
+    position: initial;
+    transform: translate(0, 0);
+  }
+
+  .workimg-heading h2 {
+    font-size: 15px;
+  }
+
+  .overlay-cardsimg h2 {
+    display: none
+  }
+
+  .workimg-heading {
+    top: 10px;
+    left: 10px;
+  }
+
+  .cards-para p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .cards-para {
+    top: 10px;
+  }
+
+  .overlay-cardsimg {
+    padding: 10px;
+  }
+
+  .bgblue {
+    background-size: cover;
+  }
+
+  .footer-content h1 {
+    font-size: 30px;
+  }
+
+  .gridview h4 {
+    font-size: 20px;
+  }
+
+  #contact .nav-link {
+    font-size: 12px;
+  }
+
+  .rounded a {
+    font-size: 14px;
+  }
+
+  .ring {
+    width: 200px;
+    height: 200px;
+  }
+
+  .mapimg {
+    height: auto;
+  }
+
+  textarea.form-control {
+    height: 200px !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .glow-text-loading {
+    font-size: 50px;
+  }
+
+  .navbar-toggler {
+    position: fixed;
+    right: 32px;
+  }
+
+  .navbar-toggler.collapsed {
+    position: sticky;
+  }
+
+  .navbar {
+    padding-top: 20px;
+  }
+
+  .contact-usbtn {
+    margin-left: 20px;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  #boxContainerParent {
+    display: block;
+    height: auto;
+  }
+
+  .grids {
+    width: 100px;
+    height: 100px;
+  }
+
+  .grid-item1, .grid-item3 {
+    margin-left: 100px;
+  }
+
+  .mobanimation, .mobwheel {
+    display: block;
+  }
+
+  .mobwheel {
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .overlay-cardsimg h2 {
+    display: block
+  }
+
+  .overlay-cardsimg {
+    padding: 20px;
+  }
+
+  .overlay-cardsimg h2 {
+    font-size: 20px;
+  }
+
+  .back-video2 {
+    width: 100%;
+    position: initial;
+  }
+
+  .featured-heading h1 {
+    font-size: 25px;
+  }
+
+  .featured-heading p {
+    font-size: 15px;
+  }
+
+  .grid, .desktopwheel {
+    display: none;
+  }
+
+  #about {
+    margin-top: 0px;
+  }
+
+  .landingcontent-parent {
+    padding-top: 30px;
+  }
+
+  #services, #Partners {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .mt-100 {
+    margin-top: 10px;
+  }
+
+  .item-end {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  #services {
+    margin-top: 100px;
+  }
+
+  #services .col-md-4 {
+    padding-top: 20px;
+  }
+
+  .featured-heading {
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .work-heading {
+    margin-top: 100px;
+  }
+
+  .clientheading {
+    top: 0%;
+  }
+
+  .main-content h1 {
+    line-height: 1;
+    margin-bottom: 0;
+    font-size: 25px !important;
+  }
+
+  .main-content p {
+    font-size: 16px;
+    line-height: 1.3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .cloud-heading {
+    padding-bottom: 0;
+  }
+
+  .main-content button, .solutionbtn {
+    font-size: 12px !important;
+  }
+
+  .visitbtn {
+    font-size: 12px;
+  }
+
+  .landingsection {
+    height: auto;
+    margin-top: 20%;
+  }
+
+  .joureybtn {
+    margin-top: 0px;
+  }
+
+  .p-all {
+    padding: 30px 0 0px 10px;
+  }
+
+  .footer-content h1 {
+    font-size: 25px;
+    line-height: 0.7;
+  }
+
+  .footer-content {
+    padding-top: 50px;
+  }
+
+  .footer-content button {
+    margin-top: 20px;
+  }
+
+  .mtb-100 {
+    margin-top: 30px;
+  }
+
+  .item img {
+    width: 50% !important;
+  }
+
+  .mt-70 {
+    margin-top: 40px;
+  }
+
+  .workimg-heading {
+    top: 20px;
+    left: 20px;
+    right: 20px;
+  }
+
+  .cards img {
+    width: 30%;
+  }
+
+  .cardsimg {
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  #landingsection {
+    height: 50vh;
+    margin-top: 0;
+  }
+
+  #landingsection .container-fluid {
+    height: auto;
+  }
+
+  .landingcontent-parent h2 {
+    padding-left: 15px;
+  }
+
+  .landingcontent-parent p {
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.3;
+  }
+
+  .contactus-para {
+    line-height: 1.3;
+  }
+
+  #Partners p {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    line-height: 1.2;
+    font-size: 16px;
+  }
+
+  .bgblue {
+    background-size: cover;
+  }
+
+  .cloud-heading h1 {
+    padding-top: 30px;
+  }
+
+  .readmorebtn {
+    margin-left: 12px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+  .mtop10 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .logomain {
+    width: 60%;
+  }
+
+  .main-content {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .mobanimation {
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+
+  #contactus {
+    text-align: left;
+  }
+
+  #about button {
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+
+  .workimg-heading h2 {
+    font-size: 20px;
+  }
+
+  .slider-img, .slider-img2 {
+    width: 90px;
+    height: 100px;
+  }
+
+  .ads-content h1 {
+    line-height: 0.9;
+    font-size: 25px !important;
+  }
+
+  .ads-content {
+    padding: 40px 20px 0 20px;
+  }
+
+  .cards-para {
+    top: unset;
+    left: 15px;
+    right: 15px;
+  }
+
+  .cards-para p {
+    padding-right: 0;
+    font-size: 14px;
+    padding-left: 0;
+    line-height: 1.2;
+  }
+
+  .footerlogo img {
+    width: 50%;
+    margin-top: 10%;
+  }
+
+  .footerlogo p {
+    margin-bottom: 50px;
+  }
+
+  .revolveicon {
+    font-size: 80px;
+  }
+
+  .revolvingcircle {
+    margin-top: 50px;
+  }
+
+  .underline-svg {
+    width: 90%;
+  }
+
+  .aboutbtnrow {
+    padding-bottom: 15%;
+  }
+
+  #solutions {
+    margin-top: 100px;
+  }
+
+  .cards {
+    margin-bottom: 20px;
+  }
+
+  figure:hover .testbtn {
+    bottom: 40%;
+  }
+
+  .aboutusimg {
+    margin-left: auto;
+    display: flex;
+  }
+
+  .glow-text {
+    font-size: 80px;
+  }
+
+  .moblogbrand {
+    display: block;
+    margin-top: 5%;
+  }
+
+  .about-img {
+    margin-top: 0px;
+  }
+
+  .mobilenav-img {
+    display: block;
+  }
+
+  .navbar-toggler {
+    padding: 0;
+    z-index: 8 !important;
+  }
+
+  /* 
+  .navbar-toggler-icon {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #002ACE;
+  } */
+
+  /* .iconone,
+  .icontwo,
+  .togglefouricon {
+    transition: 0.4s ease all;
+  }
+
+  .icontwo,
+  .iconfour {
+    margin-left: 6px;
+  } */
+
+  .navul {
+    display: block;
+    margin-top: 10%;
+    padding-left: 0;
+  }
+
+  .navul li {
+    line-height: 3rem;
+    padding-left: 0 !important;
+    border-bottom: 1px solid #dbdbdb;
+  }
+
+  .moblogo {
+    display: block;
+    width: 60%;
+    margin-left: 32px;
+  }
+
+  .moblogbrand a {
+    padding-left: 0 !important;
+  }
+
+  .mobnavlogo {
+    display: block;
+    margin-top: 14%;
+    opacity: 0.1;
+  }
+
+  .navbar-collapse .nav-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    animation-name: fadeInLeft;
+    border-bottom: 1px solid grey;
+  }
+
+  .navbar-collapse.collapsing {
+    left: -100%;
+    transition: height 0s ease;
+  }
+
+  .navbar-collapse.collapsing .navoverlay {
+    left: -100%;
+    transition: height 0s ease;
+  }
+
+  .navbar-collapse.show,
+  .navbar-collapse.show .navoverlay {
+    background: #002ACE;
+    left: 0;
+    transition: left 300ms ease-in;
+  }
+
+  .navbar-toggler.collapsed~.navbar-collapse {
+    transition: left 500ms ease-in;
+  }
+
+  .nav-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    animation-name: fadeInLeft;
+    border-bottom: 1px solid grey;
+  }
+
+  /* 
+  .toggletwoicon {
+    height: 13px;
+  }
+
+  .iconone,
+  .icontwo,
+  .toggletwoicon,
+  .togglefouricon {
+    transition: 0.4s ease all;
+  } */
+  .gridview h4 {
+    margin-top: 30px;
+  }
+
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 5;
+    background-color: #002ACE;
+  }
+
+  .navbar-brand {
+    width: 80%;
+  }
+
+  .navbar-brand a {
+    width: 100%;
+  }
+
+  .navbar-collapse .nav-link {
+    font-size: 1.5rem;
+    padding-left: 32px;
+    color: white;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none !important;
+  }
+
+  .moblogo2 {
+    display: block;
+    width: 100%;
+    opacity: 0.1
+  }
+
+  .nav-tabs .nav-link {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 15px !important;
+  }
+
+  .back-to-top {
+    width: 50px;
+    height: 50px;
+  }
+
+  .footer {
+    padding: 10px;
+  }
+
+  .footer-logo a {
+    text-align: end;
+  }
+
+  .footer-logo img {
+    width: 100%;
+  }
+
+  .mt-50 {
+    margin-top: 50px;
+  }
+
+  .endnav a {
+    background: white;
+    border: 1px solid white;
+    color: #002ACE !important;
+    margin-top: 20px;
+  }
+
+  .endnav {
+    margin-top: 20px;
+  }
+
+  .endnav a:hover {
+    background: #E4E4E4 !important;
+    color: #002ACE !important;
+  }
+
+
+  .footerlogo-mob {
+    width: 30%;
+  }
+
+  .adsimage {
+    display: none;
+  }
+
+  .border-r {
+    margin-top: 80px !important;
+  }
+
+  .heroimg1 {
+    display: none
+  }
+
+  .card {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+  .card img {
+    width: 60%;
+  }
+
+  .card-title {
+    font-size: 18px;
+  }
+
+  .card2 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+
+  #values .row {
+    padding-top: 0;
+  }
+
+  .ring {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+  }
+
+  .contactus-parent {
+    padding: 100px 20px 100px 20px;
+  }
+
+  .contactus-heading {
+    font-size: 2.5rem;
+  }
+
+  #form-section {
+    margin-top: 40px;
+  }
+
+  .visitus-heading {
+    margin-top: 70px;
+  }
+
+  .contact-icon {
+    margin-top: 10px;
+  }
+
+  .contact-icon3 {
+    margin-bottom: 40px;
+  }
+
+  .contact-icon svg {
+    font-size: 10px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .contact-text {
+    font-size: 12px;
+  }
+
+  .contactpara-parentmob {
+    display: block;
+  }
+
+  .contactpara-parentdesk {
+    display: none;
+  }
+
+  .missionimg {
+    width: 45%;
+  }
+
+  .team-laptop {
+    display: block;
+    margin-bottom: 50px;
+  }
+
+  .team-desktop {
+    display: none;
+  }
+
+  .teamrow {
+    margin-top: 50px;
+  }
+
+  #mission, #Partners {
+    text-align: center;
+  }
+
+  .nav-link {
+    width: auto;
+  }
+
+  .footerlinks ul li {
+    list-style: none;
+  }
+
+  .footerlinks ul {
+    padding-left: 0;
+  }
+
+  .footer-rightcontent ul {
+    display: inline-block;
+  }
+
+  .content-end p {
+    padding-top: 20px;
+    margin-bottom: 0;
+  }
+
+  .service-card {
+    flex-direction: column;
+  }
+
+  .service-card .card-body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .service-cardodd img{
+    width: 100%;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 0;
+  }
+  .mobile-cardimg{
+    display: block;
+    width: 100% !important;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 0 !important;
+  }
+  .desktopcard-img{
+    display: none;
+  }
+  .partner-icons{
+    display: flex;
+  }
+  .slider-img:nth-child(1){
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .partnersvg{
+    width: 70%;
+  }
+}
